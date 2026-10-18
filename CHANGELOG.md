@@ -3,6 +3,14 @@
 Installs pin to the `version` in `plugins/nightshift/.claude-plugin/plugin.json`, so every entry here is a
 version users receive. Dates are release dates; the tags carry the exact trees.
 
+## [0.27.0](https://github.com/orwa-mahmoud/nightshift/compare/v0.26.1...v0.27.0) (2026-10-18)
+
+
+### Features
+
+* add environment example drift shift ([0de3469](https://github.com/orwa-mahmoud/nightshift/commit/0de34693137bdd7dcc75fa44d74d7da82a4aadc0))
+* add environment example drift shift ([#193](https://github.com/orwa-mahmoud/nightshift/issues/193)) ([520db19](https://github.com/orwa-mahmoud/nightshift/commit/520db19959b3b760e954f5d0259597490e78d2d8))
+
 ## [0.26.1](https://github.com/orwa-mahmoud/nightshift/compare/v0.26.0...v0.26.1) (2026-10-09)
 
 
